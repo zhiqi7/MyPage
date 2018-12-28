@@ -12,3 +12,4 @@ OK,i'll need these instead both of the content of them.
 廖雪峰老师说第一种不会显示合并分支的信息，第二中会显示。于是我想再次实验一下。
 这次我将用no-ff模式。
 咿呀，那个啥不见了，stash是个啥吗？
+我就不信了。
