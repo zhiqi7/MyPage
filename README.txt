@@ -13,3 +13,4 @@ OK,i'll need these instead both of the content of them.
 这次我将用no-ff模式。
 咿呀，那个啥不见了，stash是个啥吗？
 我就不信了。
+这戏使用pop的方式。
