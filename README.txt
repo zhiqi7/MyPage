@@ -7,3 +7,4 @@ git again changed.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 OK,i'll need these instead both of the content of them.
+好了，我又来实验一下如果是删除分支后想保留分支的历史该怎么办呢？
